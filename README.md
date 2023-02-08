@@ -24,6 +24,9 @@ The data then was converted accordingly, so as to pull out interesting statistic
 - drawing conclusions from the created analysis (.txt file attached in the repository)
 
 
+.
+
 Źródła danych/data source:
+
 https://www.kickest.it/en/premier-league/stats
-transfermakt.pl
+, transfermakt.pl
