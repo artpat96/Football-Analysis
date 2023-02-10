@@ -23,82 +23,89 @@ The data then was converted accordingly, so as to pull out interesting statistic
 - creating functions to simplify the creation of multiple charts
 - drawing conclusions from the created analysis (description below)
 
-# Analiza zawodników
+# Players' Analysis
 
-Poniższa analiza podzielona jest na 4 części i dokonując jej, chce uzyskać odpowiedzi na poniższe pytania:
-- jaka jest pozycja każdego analizowanego piłkarza (obrońca, rozgrywający, skrzydłowy, napastnik)?
-- jaki jest najlepszy zawodnik na danej pozycji?
-- kto miał najlepszy indywidualny sezon?
-- kto miał najrówniejszą formę przez te 3 sezony, czy da się określić największą gwiazdę ligi?
+The following analysis is divided into 4 parts and it's aim is to get answers to the following questions:
+- what is the position of each analyzed footballer (defender, playmaker, winger, striker)?
+- what is the best player in each position?
+- who had the best individual season?
+- who had the most consistent form over the 3 seasons, is it possible to identify the biggest star of the league?
 
-<b> CZĘŚĆ 1 </b>
+<b> PART 1 </b>
 
-Na sam początek warto przyjrzeć się zawodnikiem, którzy regularnie zdobywają mniej niż 10 goli w sezonie.
+At the very beginning, it is worth looking at players who regularly score less than 10 goals per season.
 ![def_fwd](https://user-images.githubusercontent.com/111128309/218095610-6a6241b0-4b13-4445-911b-88efe4da244c.jpg)
 
-Cancelo i Alexander-Arnold nie przekroczyli bariery 10 bramek w żadnym sezonie. Są to więc ewidentnie obrońcy. Następnie sprawdzamy kto regularnie strzela powyżej 17 bramek na sezon. Na tej podstawie możemy z całą pewnością stwierdzić, że Salah i Kane to napastnicy. Na liście po jednym razie przewinęli się też Mane, Son i Vardy, więc należy ich zbadać pod tym kątem. Najłatwiej sprawdzić statystykę wszystkich oddanych strzałów, w ten sposób widać jak blisko bramki przeciwnika gra dany piłkarz. 
+Cancelo and Alexander-Arnold have not crossed the 10-goal barrier in any season. So they are clearly defenders. Next, we look at the ones who regularly scores above 17 goals per season. On this basis, we can say with certainty that Salah and Kane are strikers. Mane, Son and Vardy also scroll down the list one time each, so they should be examined from that angle. The easiest way is to check the statistics of all shots taken, that way you can see how close to the opponent's goal a particular player plays. 
 -	Sadio Mane:
 ![Mane](https://user-images.githubusercontent.com/111128309/218096741-b4f735fa-3076-4521-9c07-4eac136d98f9.jpg)
 ![Mane2](https://user-images.githubusercontent.com/111128309/218096757-ac3cb211-4434-472f-a45b-4bebb0eefec5.jpg)
 
-Mane dużo strzela, ale widzimy też, że bardzo dużo drybluje. Widzimy też, że z czasem zmniejsza się liczba jego dryblingów, a zwiększa liczba strzałów. Oznacza to, że jego styl prawdopodobnie lekko ewoluował. Z bycia początkowo typowym skzrydłowym, stał się zawodnikiem grającym bliżej środka. Jest on więc czymś pomiędzy skrzydłowym, a napastnikiem. Widać jednak, iż drybluje on, obok Zahy, najczęściej w lidze. Dlatego na potrzeby analizy przypiszemy mu pozycję skrzydłowego, ale sprawdzimy jak wypada też w porównaniu z typowymi napastnikami.
+Mane shoots a lot, but we also see that he dribbles a lot. Moreover we can see that over time his dribbling decreases and his shooting increases. This means that his style has probably evolved slightly. From being initially a typical scrummager, he has become a player who plays closer to the middle. He is then something between a winger and a striker. However, it can be seen that he dribbles, next to Zaha, most often in the league. Therefore, for the purpose of analysis, we will assign him the position of a winger, but we will also check how he compares with typical strikers.
 -	Jamie Vardy:
 ![Vardy](https://user-images.githubusercontent.com/111128309/218096773-f5a3a244-f955-4bf5-b0ab-da2c84203682.jpg)
 
-Wdać, że Vardy potrafi strzelić dużo goli oddając mało strzałów. Oznacza to, że prawdopodobnie strzela z bardzo bliska, więc jego pozycja boiskowa to napastnik. Ponadto Vardy kreuje mało sytuacji, co umacnia nas w przekonaniu, że jest typem napastnika czekającego na podanie od kolegów z zespołu.
+You can see that Vardy can score a lot of goals by taking few shots. This means that he probably shoots from very close range, so his field position is that of a striker. In addition, Vardy creates few situations, which reinforces our belief that he is the type of striker who waits for a pass from his teammates.
 -	Son:
 ![Son](https://user-images.githubusercontent.com/111128309/218096842-f965925d-23ef-40e2-b625-bb51d9f992f4.jpg)
 ![Son2](https://user-images.githubusercontent.com/111128309/218096857-ef8ee21c-0cf2-451a-ab43-4f59395e11db.jpg)
 
-Jest to bardzo ciekawy zawodnik, prawdopodobnie najcięższy do scharakteryzowania. Z całą pewnością nie oddaje on zbyt wielu strzałów, jednak potrafi strzelić sporo goli. Drybluje mniej od Mane, ale potrafi stowrzyć sporo sytuacji innym zawodnikom i ma dużo kluczowych podań. Prawdopodobnie jest on czymś między rozgrywającym, skrzydłowym, a napastnikiem. Na potrzeby analizy przypiszemy go do pozycji rozgrywającego, ale sprawdzimy też jak wypada w porównaniu ze skrzydłowymi.
--	Wilfried Zaha - jest to typowy skrzydłowy. Najwięcej dryblingów w całej lidze. Stała liczba tworzonych sytuacji oraz strzałów na sezon.
+He is a very interesting player, probably the hardest to characterize. He certainly doesn't take many shots, but he can score quite a few goals. He dribbles less than Mane, but can create a lot of situations for other players and has a lot of key passes. He is likely to be something between a playmaker, a winger and a striker. For the purposes of analysis, we'll assign him to the playmaker position, but we'll also look at how he compares to wingers.
+-	Wilfried Zaha - He's a typical winger. Most dribbling in the entire league. Consistent number of situations created and shots per season.
 ![Zaha](https://user-images.githubusercontent.com/111128309/218096906-da28f041-23e1-4665-bf3b-05a20489a591.jpg)
 
--	Kevin de Bruyne - jest to typowy rozgrywający. Najwięcej asyst, stworzony szans, kluczowych podań. Bezkonkurencyjny w tym względzie, mimo mniejszej liczby minut niż konkurencja.
+-	Kevin de Bruyne - He's a typical playmaker. Most assists, created chances, key passes. Unrivaled in this regard, despite fewer minutes than the competition.
 ![KdB](https://user-images.githubusercontent.com/111128309/218096876-d856e09e-ea0a-4d0d-9e81-26822a443379.jpg)
 
-<b> CZĘŚĆ 2 </b>
+<b> PART 2 </b>
 
-Mamy więc pogrupowanych zawodników. Następnie spróbujemy scharakteryzować każdego piłkarza w większych szczegółach i wybrać najlepszego zawodnika na danej pozycji.
-Obrońcy w zestawieniu to boczni obrońcy. Mają oni więcej statystyk ofensywnych od stoperów i to na tych statystykach skupiamy się w poniższej analizie. Po ilości asyst, tworzonych szans (dośrodkowania lub długie podania) i kluczowych podaniach, widać że Trent Alexander-Arnold jest bezkonkurencyjny dla Cancelo na przestrzeni 3 sezonów. Ciekawiej robi się porównując inne pozycje (analizowane statystyki ofensywne poniekąd to wymuszają), dlatego też zdecydowałem się dodać TAA do analizy rozgrywających (statystykami kreowania szans najbardziej przypomina taki profil gracza).
+So we have grouped players. Next, we will try to characterize each player in greater detail and select the best player in a given position.
+The defenders in the list are the side defenders. They have more offensive statistics than central backs, and these are the statistics that we focus on in the following analysis. By the number of assists, chances created (centering or long passes) and key passes, it is clear that Trent Alexander-Arnold is unrivaled by Cancelo over 3 seasons. It gets more interesting when comparing other positions (the analysis of offensive stats somewhat forces this), which is why I decided to add TAA to the analysis of playmakers (with stats of creating chances he most resembles such a player profile).
 
 <i><b> de Bruyne vs Son (vs TAA) </i></b>
 
-W tej części analizy pomijamy zdobycze bramkowe. W tej statystyce Alexander-Arnold jako obrońca nie ma szans z pozostałymi zawodnikami. Wyjątkowe są jednak jego umiejętności dokładnych podań i warto im się przyjrzeć.
+In this part of the analysis we ignore scored goals. In this statistic Alexander-Arnold, as a defender, does not stand a chance with the other players. However, his ability to make accurate passes is exceptional and is worth a look.
 ![Playmakers](https://user-images.githubusercontent.com/111128309/218097429-c144dd2a-1c51-471d-b89c-b95efb0e2ce0.jpg)
-De Bruyne zagrał mniej minut od pozostałych zawodników, ale liczbowo i tak jest przed większością z nich. Nie dziwne więc, że biorąc pod uwagę statystyki podań i szans na minuty jego przewaga nad resztą stawki jeszcze rośnie. Widzimy też, że w obu tych statystyka Trent wypada lepiej od Sona, jednak widzimy, że sezon 2019/20 był dla niego bardzo udany pod względem efektywności. Mimo stosunkowo niewielkiej liczby kluczowych podań, były to sytuacje bardzo jakościowe (najlepszy współczynnik asyst do takich podań). Jest on też najlepszym dryblerem z całej trójki i znacznie częście angażuje się w takie akcje, co może sugerować, że momentami bliżej mu jednak do skrzydłowego niż rozgrywającego. W tej batalii jednak zwycięstwo de Bruyne jest niepodważalne.
 
-<i><b> Zaha vs Sadio Mane (vs Son) </i></b>
+De Bruyne has played fewer minutes than the other players, but numerically he is still ahead of most of them. Not surprisingly, then, taking into account the statistics of passes and chances per minutes, his advantage over the rest of the rate grows even more. We also see that Trent performs better than Son in both of these statistics, but we can see that the 2019/20 season was very successful for him in terms of efficiency. Despite a relatively small number of key passes, these were very qualitative situations (the best ratio of assists to such passes). He is also the best dribbler of the three, and is much more often involved in such actions, which may suggest that at times he is closer to a winger than a playmaker after all. However in this battle, de Bruyne's victory is indisputable.
+
+<i><b> Zaha vs Mane (vs Son) </i></b>
 ![Wingers](https://user-images.githubusercontent.com/111128309/218105030-f32f35c9-3d24-4e53-80e7-491452c39880.jpg)
-Zaha wypada najsłabej z całego zestawienia. Jedyne w czym dominuje to liczba dryblingów. Przegrywa on jednak wszystkie pozostałe konkurencje. Dryblingi Mane i Sona są niemal identycznym poziomie, za wyjątkiem sezonu 2020/21, gdzie widać dominacje Mane. Poza tym można zauważyć, że Mane zdaje się być lepszym strzelcem od Sona i prawdopodobnie gra bardziej jako napastnik. Son za to cechuje się lepszymi podaniami. Wychodzi więc na to, że jedynym prawdziwym skrzydłowym w zestawieniu jest Zaha, jednak przegrywa on wszystkie ważne konkurencje. Mane to bardziej typ skrzydłowego-napastnika, zaś Son skrzydłowego-rozgrywającego. Jakościowo obaj przerastają Zahe, jednak poprzez inną charakterystykę ciężko wybrać najlepszego z nich.
+
+Zaha performs the weakest of the entire list. The only thing he dominates in is the number of dribbles. However, he loses all other competitions. Mane's and Son's dribbling is almost identical, except for the 2020/21 season, where Mane's dominance is evident. In addition, it can be noted that Mane seems to be a better shooter than Son and probably plays more as a striker. Son, on the other hand, is characterized by better passes. So it comes out that the only real winger in the lineup is Zaha, but he loses all the important competitions he takes part in. Mane is more of a winger-striker type, while Son is a winger-playmaker. Qualitatively they both surpass Zahe, but through different characteristics it is hard to choose the best of them.
 
 <i><b> Salah vs Kane vs Vardy (vs Mane) </i></b>
 ![Forwards](https://user-images.githubusercontent.com/111128309/218105069-c5e94b9b-e29b-46ff-95a7-0e882944dc23.jpg)
-Vardy z całą pewnością jest najskuteczniejszym piłkarzem. Aż w dwóch sezonach ma najlepszy wynik bramek na minuty (raz na równi z Salahem) oraz za każdym razem ma najlepszy współczynnik bramek na strzały. Na wykresie dryblingów na strzały widać, iż Mane znacznie częściej angażuje się w takie akcje niż pozostali gracze z zestawienia. Dopiero w ostatnim sezonie jego liczba dryblingów jest zbliżona do reszty graczy, jednak nawet wtedy daleko mu do skuteczności strzałów całej reszty. Salah oddaje najwięcej strzałów z całego zestawienia. Analizując wszystkie 4 wykresy jednocześnie da się też zauważyć, że jest najrówniejszy z porównywanych tu piłkarzy (dobry współczynnik bramek na strzały, niezła liczba dryblingów, bardzo dużo bramek i bramek w przełożeniu na minuty). Kane najlepiej wyglądał za to w sezonie 2020/21 kiedy to zdominował współczynnik bramek i strzałów na minuty. Jego skuteczność w tym sezonie była zaś zbliżona do Salaha i nieco gorsza od Vardy’ego.
 
-<b> CZĘŚĆ 3 </b>
+Vardy is certainly the most effective striker. In two seasons he has the best goals per minute ratio (once equally to Salah) and each time he has the best goals per shots ratio. The chart of dribbles per shots shows that Mane engages in such actions much more often than the other players on the list. Only in the last season his dribbling numbers are close to the rest of the players, but even then he is far from the shooting efficiency of all the rest. Salah takes the most shots of the entire roster. Analyzing all 4 charts at the same time, it is also possible to see that he is the most equal of the players compared here (good goals per shot ratio, good number of dribbles, very many goals and goals per minute ratio). Kane, on the other hand, looked best in the 2020/21 season when he dominated the goals and shots per minutes ratio. His efficiency, on the other hand, in that season was similar to Salah and slightly worse than Vardy.
 
-Czas na porównanie najlepszych indywidualnych występów. Jest to o tyle trudne, że trzeba wziąć pod uwagę wszystkie statystyki danych graczy, a często mają oni różne zadania na boisku. Najważniejszą jednak statystyką jest liczba bramek i asyst.
+<b> PART 3 </b>
+
+It's time to compare the best individual performances. This is difficult because you have to take into account all the statistics of the players in question, and they often have different tasks on the field. However, the most important statistic is the number of goals and assists.
 ![BI](https://user-images.githubusercontent.com/111128309/218113261-6a635e36-7095-418b-b5b3-86644cba8635.jpg)
-Z tych zestawień łatwo da się wyłapać 3 najlepsze i najbardziej równe występy danych graczy, a następnie można przejść do głębszej analizy tych 3 sezonów.
+
+From these lists, it is easy to pick out the 3 best and most equal performances of the players and after that we can move on to a deeper analysis of these 3 seasons.
 ![Bestindividual](https://user-images.githubusercontent.com/111128309/218113337-90315eba-fa01-42ce-aa09-32c25710d818.jpg)
-Cała trójka rozegrała w tych latach zbliżoną liczbę minut. Po zsumowaniu bramek i asyst widzimy, iż Kane ma 37 punktów, Salah 36, zaś de Bruyne 33. Pierwsza dwójka ponadto ma bardzo zbliżoną liczbę oddanych strzałów i udanych dryblingów. Jednak w statystykach kreowanych szans oraz kluczowych podań Salah wydaje się jednak wyraźnie prowadzić. Do tego rozegrał 324 minuty mniej od Kane’a, co wysuwa go na prowadzenie. De Bruyne jest ewidentnie innym typem piłkarza. Liczba jego asyst, podań i wykreowanych szans jest na zupełnie innym poziomie niż reszty. Nie jest jednak on tak dobrym strzelcem jak Salah. Są to inni piłkarze i wydaje się, że porównanie ich w skali jeden do jednego jest po prostu niemożliwe.
 
-<b> CZĘŚĆ 4 </b>
+All three have played a similar number of minutes in those years. After adding up the goals and assists, we see that Kane has 37 points, Salah has 36, while de Bruyne has 33. The first two, moreover, have a very similar number of shots taken and successful dribbles. However, in the statistics of chances created and key passes, Salah seems to be clearly in the lead. On top of that, he has played 324 minutes less than Kane, which puts him in the lead. De Bruyne is clearly a different type of footballer. The number of his assists, passes and created chances is on a completely different level from the rest. However, he is not as good a scorer as Salah. They are different footballers and it seems that comparing them on a one-to-one basis is simply impossible.
 
-Warto jednak spojrzeć też długofalowo.
+<b> PART 4 </b>
+
+However, it is also worth taking a long-term view.
 ![BestConsistency](https://user-images.githubusercontent.com/111128309/218113472-4a14113b-d786-4401-81c5-08dffb544d3b.jpg)
-De Bruyne zazwyczaj gra mniej minut od Salaha, co wprowadza nam do analizy nowy czynnik, jakim jest podatność na kontuzje. Przez to nie jest w stanie długofalowo (na przestrzeni sezonu) co roku nawiązywać równej walki z konkurentami.
+
+De Bruyne usually plays fewer minutes than Salah, which introduces a new factor into our analysis - injury susceptibility. Because of this, he is not able to put up an equal fight with his competitors on a long-term basis (over the course of a season) every year.
 ![Consistency](https://user-images.githubusercontent.com/111128309/218113537-a20e58d4-d327-43b4-9006-5d2b5fa846cd.jpg)
-Widzimy też, że Salah pojawia się w statstyce bramek i asyst 3 razy, podczas gdy inni zawodnicy dopiero jeden raz. To wszystko sprawia, że to o nim należy myśleć jako o największej gwieździe i prawdopodobnie najlepszym piłkarzu ligi w okresie 2019-2022.
+
+We also see that Salah appears in the statistics of goals and assists 3 times, while other players only once. All this makes it necessary to think of him as the biggest star and probably the best player in the league in the 2019-2022 period.
 
 <b> CZĘŚĆ 5 </b>
 
-Ostatnia część analizy to głęboka analiza występów Salaha na przestrzeni 3 lat...
+The last part of the analysis is a deep analysis of Salah's performances over 3 years....
 
 .
 
-Źródła danych/data source:
+Data source:
 
 https://www.kickest.it/en/premier-league/stats
 , transfermakt.pl
