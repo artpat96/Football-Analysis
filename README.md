@@ -8,7 +8,7 @@ Dane następnie odpowiednio przekonwertowane, tak aby wyciągnąć interesujące
 - tworzenie dodatkowych kolumn do gotowej tabeli z nowymi obliczeniami
 - tworzenie różnych form wykresów za pomocą bibliotek Matplotlib oraz Seaborn oraz dostosowywanie tych wykresów do potrzeb analizy
 - tworzenie funkcji upraszczających tworzenie wielu wykresów
-- wyciąganie wniosków z tworzonej analizy (opis w notatniku Jupyter)
+- wyciąganie wniosków z tworzonej analizy (opis poniżej)
 
 # Football-Analysis - description (ENG)
 
@@ -21,7 +21,7 @@ The data then was converted accordingly, so as to pull out interesting statistic
 - creation of various forms of charts using Matplotlib and Seaborn libraries
 - customization of these charts for analysis purposes
 - creating functions to simplify the creation of multiple charts
-- drawing conclusions from the created analysis (description in Jupyter Notebook)
+- drawing conclusions from the created analysis (description below)
 
 # Analiza zawodników
 
@@ -62,11 +62,19 @@ Jest to bardzo ciekawy zawodnik, prawdopodobnie najcięższy do scharakteryzowan
 Mamy więc pogrupowanych zawodników. Następnie spróbujemy scharakteryzować każdego piłkarza w większych szczegółach i wybrać najlepszego zawodnika na danej pozycji.
 Obrońcy w zestawieniu to boczni obrońcy. Mają oni więcej statystyk ofensywnych od stoperów i to na tych statystykach skupiamy się w poniższej analizie. Po ilości asyst, tworzonych szans (dośrodkowania lub długie podania) i kluczowych podaniach, widać że Trent Alexander-Arnold jest bezkonkurencyjny dla Cancelo na przestrzeni 3 sezonów. Ciekawiej robi się porównując inne pozycje (analizowane statystyki ofensywne poniekąd to wymuszają), dlatego też zdecydowałem się dodać TAA do analizy rozgrywających (statystykami kreowania szans najbardziej przypomina taki profil gracza).
 
-<i><b> Kevin de Bruyne vs Son vs TAA </i></b>
+<i><b> de Bruyne vs Son (vs TAA) </i></b>
 
 W tej części analizy pomijamy zdobycze bramkowe. W tej statystyce Alexander-Arnold jako obrońca nie ma szans z pozostałymi zawodnikami. Wyjątkowe są jednak jego umiejętności dokładnych podań i warto im się przyjrzeć.
 ![Playmakers](https://user-images.githubusercontent.com/111128309/218097429-c144dd2a-1c51-471d-b89c-b95efb0e2ce0.jpg)
 
+<i><b> Zaha vs Sadio Mane (vs Son) </i></b>
+![Wingers](https://user-images.githubusercontent.com/111128309/218105030-f32f35c9-3d24-4e53-80e7-491452c39880.jpg)
+
+
+<i><b> Salah vs Kane vs Vardy (vs Mane) </i></b>
+![Forwards](https://user-images.githubusercontent.com/111128309/218105069-c5e94b9b-e29b-46ff-95a7-0e882944dc23.jpg)
+
+<b> CZĘŚĆ 3 </b>
 
 .
 
