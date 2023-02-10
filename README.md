@@ -66,13 +66,15 @@ Obrońcy w zestawieniu to boczni obrońcy. Mają oni więcej statystyk ofensywny
 
 W tej części analizy pomijamy zdobycze bramkowe. W tej statystyce Alexander-Arnold jako obrońca nie ma szans z pozostałymi zawodnikami. Wyjątkowe są jednak jego umiejętności dokładnych podań i warto im się przyjrzeć.
 ![Playmakers](https://user-images.githubusercontent.com/111128309/218097429-c144dd2a-1c51-471d-b89c-b95efb0e2ce0.jpg)
+De Bruyne zagrał mniej minut od pozostałych zawodników, ale liczbowo i tak jest przed większością z nich. Nie dziwne więc, że biorąc pod uwagę statystyki podań i szans na minuty jego przewaga nad resztą stawki jeszcze rośnie. Widzimy też, że w obu tych statystyka Trent wypada lepiej od Sona, jednak widzimy, że sezon 2019/20 był dla niego bardzo udany pod względem efektywności. Mimo stosunkowo niewielkiej liczby kluczowych podań, były to sytuacje bardzo jakościowe (najlepszy współczynnik asyst do takich podań). Jest on też najlepszym dryblerem z całej trójki i znacznie częście angażuje się w takie akcje, co może sugerować, że momentami bliżej mu jednak do skrzydłowego niż rozgrywającego. W tej batalii jednak zwycięstwo de Bruyne jest niepodważalne.
 
 <i><b> Zaha vs Sadio Mane (vs Son) </i></b>
 ![Wingers](https://user-images.githubusercontent.com/111128309/218105030-f32f35c9-3d24-4e53-80e7-491452c39880.jpg)
-
+Zaha wypada najsłabej z całego zestawienia. Jedyne w czym dominuje to liczba dryblingów. Przegrywa on jednak wszystkie pozostałe konkurencje. Dryblingi Mane i Sona są niemal identycznym poziomie, za wyjątkiem sezonu 2020/21, gdzie widać dominacje Mane. Poza tym można zauważyć, że Mane zdaje się być lepszym strzelcem od Sona i prawdopodobnie gra bardziej jako napastnik. Son za to cechuje się lepszymi podaniami. Wychodzi więc na to, że jedynym prawdziwym skrzydłowym w zestawieniu jest Zaha, jednak przegrywa on wszystkie ważne konkurencje. Mane to bardziej typ skrzydłowego-napastnika, zaś Son skrzydłowego-rozgrywającego. Jakościowo obaj przerastają Zahe, jednak poprzez inną charakterystykę ciężko wybrać najlepszego z nich.
 
 <i><b> Salah vs Kane vs Vardy (vs Mane) </i></b>
 ![Forwards](https://user-images.githubusercontent.com/111128309/218105069-c5e94b9b-e29b-46ff-95a7-0e882944dc23.jpg)
+Vardy z całą pewnością jest najskuteczniejszym piłkarzem. Aż w dwóch sezonach ma najlepszy wynik bramek na minuty (raz na równi z Salahem) oraz za każdym razem ma najlepszy współczynnik bramek na strzały. Na wykresie dryblingów na strzały widać, iż Mane znacznie częściej angażuje się w takie akcje niż pozostali gracze z zestawienia. Dopiero w ostatnim sezonie jego liczba dryblingów jest zbliżona do reszty graczy, jednak nawet wtedy daleko mu do skuteczności strzałów całej reszty. Salah oddaje najwięcej strzałów z całego zestawienia. Analizując wszystkie 4 wykresy jednocześnie da się też zauważyć, że jest najrówniejszy z porównywanych tu piłkarzy (dobry współczynnik bramek na strzały, niezła liczba dryblingów, bardzo dużo bramek i bramek w przełożeniu na minuty). Kane najlepiej wyglądał za to w sezonie 2020/21 kiedy to zdominował współczynnik bramek i strzałów na minuty. Jego skuteczność w tym sezonie była zaś zbliżona do Salaha i nieco gorsza od Vardy’ego.
 
 <b> CZĘŚĆ 3 </b>
 
