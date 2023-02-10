@@ -78,6 +78,21 @@ Vardy z całą pewnością jest najskuteczniejszym piłkarzem. Aż w dwóch sezo
 
 <b> CZĘŚĆ 3 </b>
 
+Czas na porównanie najlepszych indywidualnych występów. Jest to o tyle trudne, że trzeba wziąć pod uwagę wszystkie statystyki danych graczy, a często mają oni różne zadania na boisku. Najważniejszą jednak statystyką jest liczba bramek i asyst.
+![BI](https://user-images.githubusercontent.com/111128309/218113261-6a635e36-7095-418b-b5b3-86644cba8635.jpg)
+Z tych zestawień łatwo da się wyłapać 3 najlepsze i najbardziej równe występy danych graczy, a następnie można przejść do głębszej analizy tych 3 sezonów.
+![Bestindividual](https://user-images.githubusercontent.com/111128309/218113337-90315eba-fa01-42ce-aa09-32c25710d818.jpg)
+Cała trójka rozegrała w tych latach zbliżoną liczbę minut. Po zsumowaniu bramek i asyst widzimy, iż Kane ma 37 punktów, Salah 36, zaś de Bruyne 33. Pierwsza dwójka ponadto ma bardzo zbliżoną liczbę oddanych strzałów i udanych dryblingów. Jednak w statystykach kreowanych szans oraz kluczowych podań Salah wydaje się jednak wyraźnie prowadzić. Do tego rozegrał 324 minuty mniej od Kane’a, co wysuwa go na prowadzenie. De Bruyne jest ewidentnie innym typem piłkarza. Liczba jego asyst, podań i wykreowanych szans jest na zupełnie innym poziomie niż reszty. Nie jest jednak on tak dobrym strzelcem jak Salah. Są to inni piłkarze i wydaje się, że porównanie ich w skali jeden do jednego jest po prostu niemożliwe.
+
+<b> CZĘŚĆ 4 </b>
+
+Warto jednak spojrzeć też długofalowo.
+![BestConsistency](https://user-images.githubusercontent.com/111128309/218113472-4a14113b-d786-4401-81c5-08dffb544d3b.jpg)
+De Bruyne zazwyczaj gra mniej minut od Salaha, co wprowadza nam do analizy nowy czynnik, jakim jest podatność na kontuzje. Przez to nie jest w stanie długofalowo (na przestrzeni sezonu) co roku nawiązywać równej walki z konkurentami.
+![Consistency](https://user-images.githubusercontent.com/111128309/218113537-a20e58d4-d327-43b4-9006-5d2b5fa846cd.jpg)
+Widzimy też, że Salah pojawia się w statstyce bramek i asyst 3 razy, podczas gdy inni zawodnicy dopiero jeden raz. To wszystko sprawia, że to o nim należy myśleć jako o największej gwieździe i prawdopodobnie najlepszym piłkarzu ligi w okresie 2019-2022.
+
+
 .
 
 Źródła danych/data source:
