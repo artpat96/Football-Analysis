@@ -28,8 +28,8 @@ The data then was converted accordingly, so as to pull out interesting statistic
 Poniższa analiza podzielona jest na 4 części i dokonując jej, chce uzyskać odpowiedzi na poniższe pytania:
 - jaka jest pozycja każdego analizowanego piłkarza (obrońca, rozgrywający, skrzydłowy, napastnik)?
 - jaki jest najlepszy zawodnik na danej pozycji?
-- najlepszy indywidualny sezon, czy da się określić największą gwiazdę ligi?
-- kto miał najrówniejszą formę przez te 3 sezony?
+- kto miał najlepszy indywidualny sezon?
+- kto miał najrówniejszą formę przez te 3 sezony, czy da się określić największą gwiazdę ligi?
 
 <b> CZĘŚĆ 1 </b>
 
@@ -92,6 +92,9 @@ De Bruyne zazwyczaj gra mniej minut od Salaha, co wprowadza nam do analizy nowy 
 ![Consistency](https://user-images.githubusercontent.com/111128309/218113537-a20e58d4-d327-43b4-9006-5d2b5fa846cd.jpg)
 Widzimy też, że Salah pojawia się w statstyce bramek i asyst 3 razy, podczas gdy inni zawodnicy dopiero jeden raz. To wszystko sprawia, że to o nim należy myśleć jako o największej gwieździe i prawdopodobnie najlepszym piłkarzu ligi w okresie 2019-2022.
 
+<b> CZĘŚĆ 5 </b>
+
+Ostatnia część analizy to głęboka analiza występów Salaha na przestrzeni 3 lat...
 
 .
 
