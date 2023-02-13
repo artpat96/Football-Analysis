@@ -8,7 +8,7 @@ Dane następnie odpowiednio przekonwertowane, tak aby wyciągnąć interesujące
 - tworzenie dodatkowych kolumn do gotowej tabeli z nowymi obliczeniami
 - tworzenie różnych form wykresów za pomocą bibliotek Matplotlib oraz Seaborn oraz dostosowywanie tych wykresów do potrzeb analizy
 - tworzenie funkcji upraszczających tworzenie wielu wykresów
-- wyciąganie wniosków z tworzonej analizy (opis poniżej)
+- wyciąganie wniosków z tworzonej analizy (opis w języku polskim w pliku .pdf)
 
 # Football-Analysis - description (ENG)
 
