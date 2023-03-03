@@ -87,7 +87,10 @@ It's time to compare the best individual performances. This is difficult because
 From these lists, it is easy to pick out the 3 best and most equal performances of the players and after that we can move on to a deeper analysis of these 3 seasons.
 ![Bestindividual](https://user-images.githubusercontent.com/111128309/218113337-90315eba-fa01-42ce-aa09-32c25710d818.jpg)
 
+![GA_plot](https://user-images.githubusercontent.com/111128309/222784313-8913da7d-d823-4428-9382-e24235c0621a.jpg)
+
 All three have played a similar number of minutes in those years. After adding up the goals and assists, we see that Kane has 37 points, Salah has 36, while de Bruyne has 33. The first two, moreover, have a very similar number of shots taken and successful dribbles. However, in the statistics of chances created and key passes, Salah seems to be clearly in the lead. On top of that, he has played 324 minutes less than Kane, which puts him in the lead. De Bruyne is clearly a different type of footballer. The number of his assists, passes and created chances is on a completely different level from the rest. However, he is not as good a scorer as Salah. They are different footballers and it seems that comparing them on a one-to-one basis is simply impossible.
+
 
 <b> PART 4 </b>
 
