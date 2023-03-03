@@ -99,7 +99,7 @@ De Bruyne usually plays fewer minutes than Salah, which introduces a new factor 
 
 We also see that Salah appears in the statistics of goals and assists 3 times, while other players only once. All this makes it necessary to think of him as the biggest star and probably the best player in the league in the 2019-2022 period.
 
-<b> CZĘŚĆ 5 </b>
+<b> PART 5 </b>
 
 The last part of the analysis is a deep analysis of Salah's performances over 3 years....
 
