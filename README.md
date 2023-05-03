@@ -82,9 +82,11 @@ Vardy is certainly the most effective striker. In two seasons he has the best go
 <b> PART 3 </b>
 
 It's time to compare the best individual performances. This is difficult because you have to take into account all the statistics of the players in question, and they often have different tasks on the field. However, the most important statistic is the number of goals and assists.
+
 ![BI](https://user-images.githubusercontent.com/111128309/218113261-6a635e36-7095-418b-b5b3-86644cba8635.jpg)
 
 From these lists, it is easy to pick out the 3 best and most equal performances of the players and after that we can move on to a deeper analysis of these 3 seasons.
+
 ![Bestindividual](https://user-images.githubusercontent.com/111128309/218113337-90315eba-fa01-42ce-aa09-32c25710d818.jpg)
 
 ![GA_plot](https://user-images.githubusercontent.com/111128309/222784313-8913da7d-d823-4428-9382-e24235c0621a.jpg)
@@ -95,18 +97,33 @@ All three have played a similar number of minutes in those years. After adding u
 <b> PART 4 </b>
 
 However, it is also worth taking a long-term view.
+
 ![BestConsistency](https://user-images.githubusercontent.com/111128309/218113472-4a14113b-d786-4401-81c5-08dffb544d3b.jpg)
 
 De Bruyne usually plays fewer minutes than Salah, which introduces a new factor into our analysis - injury susceptibility. Because of this, he is not able to put up an equal fight with his competitors on a long-term basis (over the course of a season) every year.
+
+
 ![Consistency](https://user-images.githubusercontent.com/111128309/218113537-a20e58d4-d327-43b4-9006-5d2b5fa846cd.jpg)
 
 We also see that Salah appears in the statistics of goals and assists 3 times, while other players only once. All this makes it necessary to think of him as the biggest star and probably the best player in the league in the 2019-2022 period.
 
-<b> PART 5 </b>
+If we focus deeper on his playing style, we can see that he is giving the most shots in the whole league.
 
-The last part of the analysis is a deep analysis of Salah's performances over 3 years....
+![GpTS](https://user-images.githubusercontent.com/111128309/235902514-a5f9fbc9-b27e-4f9a-9cc9-0806529fcfb3.jpg)
 
-.
+Moreover, he is a very cosistent player. His total shots per season are always in the range of 126-139, so differences between each season are very small. The same is true of his goal statistics, where the difference between seasons is a maximum of 4 goals.
+
+![GaPM_Mo](https://user-images.githubusercontent.com/111128309/235903591-2f0295cb-b8f1-40b7-a832-1d5aaebe75ba.jpg)
+
+His goals and assists per minutes stats are on the very high level, as he is the first player to appear twice on this list.
+
+![GApM](https://user-images.githubusercontent.com/111128309/235903955-63c69a89-f690-4d81-b796-65c01d5339c3.jpg)
+
+From the chart we can also see that he is also the only player who hasn't gone even once during these three seasons below 25 goals and assists (and he has the highest score in the whole league).
+
+All of this summed up shows that Salah is probably the most complete offensive player in this comparasion.
+
+
 
 Data source:
 
