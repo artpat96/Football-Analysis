@@ -1,4 +1,6 @@
-# Football_Analysis_Project - description
+# Football_Analysis_Project 
+
+<b> Project description (available in polish language in .pdf file): </b>
 
 The football Analysis project involved taking the data of selected players from the last 3 seasons and structuring it. The data was transferred to Excel (attached file in .xls format) and converted to .csv format to upload it to Python via Jupyter Notebook.
 The project focused on processing the data properly, starting with loading it in the wanted form (using the NumPy library) and loading the .csv file as a main table (using the Pandas library).
